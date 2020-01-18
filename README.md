@@ -1,1 +1,1 @@
-It is about statisticstional data analasys.
+It is about data analasys.
